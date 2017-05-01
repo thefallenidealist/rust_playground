@@ -1,0 +1,8 @@
+[package]
+name = "register_volatile_update"
+version = "0.1.0"
+authors = ["Johnny Sorocil <propaliidealist@gmail.com>"]
+
+[dependencies]
+volatile = "0.2.3"
+bit_field = "0.7.0"
